@@ -1,0 +1,9 @@
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges/bin/Debug/netcoreapp2.1/CodingChallenges.deps.json
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges/bin/Debug/netcoreapp2.1/CodingChallenges.dll
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges/bin/Debug/netcoreapp2.1/CodingChallenges.pdb
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges/obj/Debug/netcoreapp2.1/CodingChallenges.csprojAssemblyReference.cache
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges/obj/Debug/netcoreapp2.1/CodingChallenges.csproj.CoreCompileInputs.cache
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges/obj/Debug/netcoreapp2.1/CodingChallenges.AssemblyInfoInputs.cache
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges/obj/Debug/netcoreapp2.1/CodingChallenges.AssemblyInfo.cs
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges/obj/Debug/netcoreapp2.1/CodingChallenges.dll
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges/obj/Debug/netcoreapp2.1/CodingChallenges.pdb

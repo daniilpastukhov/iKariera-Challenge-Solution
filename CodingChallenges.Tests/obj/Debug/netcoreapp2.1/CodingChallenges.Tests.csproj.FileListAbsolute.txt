@@ -1,0 +1,17 @@
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/bin/Debug/netcoreapp2.1/CodingChallenges.Tests.deps.json
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/bin/Debug/netcoreapp2.1/CodingChallenges.Tests.runtimeconfig.json
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/bin/Debug/netcoreapp2.1/CodingChallenges.Tests.runtimeconfig.dev.json
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/bin/Debug/netcoreapp2.1/CodingChallenges.Tests.dll
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/bin/Debug/netcoreapp2.1/CodingChallenges.Tests.pdb
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/bin/Debug/netcoreapp2.1/CodingChallenges.dll
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/bin/Debug/netcoreapp2.1/CodingChallenges.pdb
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/obj/Debug/netcoreapp2.1/CodingChallenges.Tests.csprojAssemblyReference.cache
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/obj/Debug/netcoreapp2.1/CodingChallenges.Tests.csproj.CoreCompileInputs.cache
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/obj/Debug/netcoreapp2.1/CodingChallenges.Tests.AssemblyInfoInputs.cache
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/obj/Debug/netcoreapp2.1/CodingChallenges.Tests.AssemblyInfo.cs
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/obj/Debug/netcoreapp2.1/CodingChallenges.Tests.csproj.CopyComplete
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/obj/Debug/netcoreapp2.1/CodingChallenges.Tests.dll
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Tests/obj/Debug/netcoreapp2.1/CodingChallenges.Tests.pdb

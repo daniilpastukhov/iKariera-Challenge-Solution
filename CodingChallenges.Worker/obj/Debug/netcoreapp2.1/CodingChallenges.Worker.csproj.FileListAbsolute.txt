@@ -1,0 +1,14 @@
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/bin/Debug/netcoreapp2.1/CodingChallenges.Worker.deps.json
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/bin/Debug/netcoreapp2.1/CodingChallenges.Worker.runtimeconfig.json
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/bin/Debug/netcoreapp2.1/CodingChallenges.Worker.runtimeconfig.dev.json
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/bin/Debug/netcoreapp2.1/CodingChallenges.Worker.dll
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/bin/Debug/netcoreapp2.1/CodingChallenges.Worker.pdb
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/bin/Debug/netcoreapp2.1/CodingChallenges.dll
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/bin/Debug/netcoreapp2.1/CodingChallenges.pdb
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/obj/Debug/netcoreapp2.1/CodingChallenges.Worker.csprojAssemblyReference.cache
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/obj/Debug/netcoreapp2.1/CodingChallenges.Worker.csproj.CoreCompileInputs.cache
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/obj/Debug/netcoreapp2.1/CodingChallenges.Worker.AssemblyInfoInputs.cache
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/obj/Debug/netcoreapp2.1/CodingChallenges.Worker.AssemblyInfo.cs
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/obj/Debug/netcoreapp2.1/CodingChallenges.Worker.csproj.CopyComplete
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/obj/Debug/netcoreapp2.1/CodingChallenges.Worker.dll
+/Users/paradise/Documents/c-sharp/iKariera-coding-challenge/CodingChallenges.Worker/obj/Debug/netcoreapp2.1/CodingChallenges.Worker.pdb
